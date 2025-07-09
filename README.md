@@ -104,5 +104,19 @@ mathserver.py if it's a math question.
 weather.py if it's a weather question.
 
 
+### ✅ Sample Questions
+Try these inside client.py:
+```
+Math: "What is (3 + 5) * 12?"
 
+Weather: "What is the weather in Delhi?"
+```
+
+The agent will automatically select the correct tool based on the question!
+
+### 🧑‍💻 Author
+Anandhu P.
+B.Tech Artificial Intelligence and Data Science
+Nehru Institute of Engineering and Technology, Coimbatore
+Palakkad, Kerala
 
